@@ -1,0 +1,25 @@
+Session: C:\Users\inter\.copilot\session-state\4bffcd97-2979-4fbc-90ea-428ad93347c2\files\
+
+Copy these files:
+├── root-package.json → package.json
+├── AEROLINK_README.md → README.md
+├── QUICK_START.md → keep as QUICK_START.md
+├── BUILD_GUIDE.md → keep as BUILD_GUIDE.md
+├── FINAL_README.md → keep as reference
+│
+├── Create: backend/package.json (from backend-package.json)
+├── Create: backend/src/index.ts (from backend-server.ts)
+├── Create: backend/src/services/weather.ts (from weather-service.ts)
+├── Create: backend/src/services/notam.ts (from notam-service.ts)
+├── Create: backend/src/services/airspace.ts (from airspace-service.ts)
+├── Create: backend/src/services/airports.ts (from airports-service.ts)
+├── Create: backend/src/services/flight-planning.ts (from flight-planning-service.ts)
+│
+├── Create: mobile/App.tsx (from App-enhanced.tsx)
+├── Create: mobile/package.json (from mobile-package.json)
+│
+├── Create: packages/core/src/aviation.ts (from aviation-core.ts)
+│
+├── Create: docs/ROADMAP.md (from AEROLINK_ROADMAP.md)
+├── Create: docs/ARCHITECTURE.md (from AEROLINK_ARCHITECTURE.md)
+├── Create: docs/SETUP.md (from SETUP_GUIDE.md)
